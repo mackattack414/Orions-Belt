@@ -3,7 +3,7 @@ Letter of Intent
 
 
 
-This document is meant to better explain and make clear my intentions with this project, so that anyone reading it may understand and choose the way it may or may not participate. Should you have any doubt or concern about it, feel free to ask me on the relevant thread in  [HashTalk’s](https://hashtalk.org/topic/21957/pre-ann-orion-belt-coalition-update-1) or by email at [orion.belt.coalition@gmail.com](orion.belt.coalition@gmail.com)
+This document is meant to better explain and make clear my intentions with this project, so that anyone reading it may understand and choose the way it may or may not participate. Should you have any doubt or concern about it, feel free to ask me on the relevant thread in  [HashTalk’s](https://hashtalk.org/topic/23234/ann-orion-belt-community-base-camp) or by email at [orion.belt.community@gmail.com](orion.belt.community@gmail.com)
 
 >**Disclaimer:** *Orion Controller&trade;, Prime Controller&trade; and Paycoin&trade; are trademarks or otherwise property of GAW Miners; understand that GAW Miners is not affiliated, associated or related to this project in any way other than being mentioned*
 
@@ -58,7 +58,7 @@ Nevertheless, humans still need to trust each other for all the rest, and so the
 
 **As its main asset, the website will provide the means to create, uphold and maintain the community’s collective resources.**
 
-The content of the website will be considered a property of the coalition and as such, in the unlikely event that it ceases to exist, every member will be entitled to a full copy of its contents at the time.
+The content of the website will be considered a property of the community and as such, in the unlikely event that it ceases to exist, every member will be entitled to a full copy of its contents at the time.
 
 However, please bear this in mind at all times: it’s not a democracy, I will own the domain and if I feel the direction taken no longer relates to the initial goal and spirit or an otherwise later revision that I agree with, the website will no longer be associated with it.
 
@@ -77,9 +77,9 @@ However, please bear this in mind at all times: it’s not a democracy, I will o
 - **The forum The forum** – yes, of course, we’ll need a forum, can’t be only on HT forever☺; it will have avatars, profiles, following, mods, lots of threads and even trolls.
 
 
-- **The Status Page** – a dynamic list of the coalition’s nodes, their ID and Operator, their health status and whatever we see fit. All information will be given voluntarily by the owners of the nodes, no obligations.
+- **The Status Page** – a dynamic list of the community’s nodes, their ID and Operator, their health status and whatever we see fit. All information will be given voluntarily by the owners of the nodes, no obligations.
 
-- **The Services Page** – where it will all unfolds; this part will support the higher functions of the coalition: that of creating and maintaining a method through which the members are able to have a stake and manage that participation on the coalition’s Orion nodes (or even Prime Controllers&trade;, if we get there)
+- **The Services Page** – where it will all unfolds; this part will support the higher functions of the community: that of creating and maintaining a method through which the members are able to have a stake and manage that participation on the community’s Orion nodes (or even Prime Controllers&trade;, if we get there)
 
 ##**Cash?**
 
@@ -89,15 +89,15 @@ This project is going to be supported by me, because I want to see it becoming a
 
 That being said, you will all be able to participate in a lot of ways, even with cash if you so want – but you’ll have to do it directly, i.e., **I will not be taking donations be taking donations or any form of monetary contributions.**
 
-I will, however, take any other form of help you’ll be willing to give. And that’s why I’m not worried about those costs. The heavy part will be done, hopefully, by all the member’s willingness to help and do work in benefit of themselves and the rest of the coalition members.
+I will, however, take any other form of help you’ll be willing to give. And that’s why I’m not worried about those costs. The heavy part will be done, hopefully, by all the member’s willingness to help and do work in benefit of themselves and the rest of the community members.
 
 Also, there’s probably going to be a lot more resources needed to keep this going, as it grows, so every member will have the chance of taking care of other expenses that might come up, if they so wish.
 
- **The existence of any other form of monetary-supported activity supported activity taken upon by the coalition will be sorted out and voted within the coalition itself.**
+ **The existence of any other form of monetary-supported activity supported activity taken upon by the community will be sorted out and voted within the community itself.**
 
 ##**Fine, but when?**
 
-**The initial stated dates are still valid: phase 1 of the project, i.e., having the website up and as functional as possible, up to the 15th January 2015**; the more advanced features will stay tentatively scheduled to before the end of the first round for Prime Controllers&trade;, but the coalition’s efforts will truly dictate that after it’s up and running.
+**The initial stated dates are still valid: phase 1 of the project, i.e., having the website up and as functional as possible, up to the 19th January 2015**; the more advanced features will stay tentatively scheduled to before the end of the first round for Prime Controllers&trade;, but the community’s efforts will truly dictate that after it’s up and running.
 
 **That being said, there’s a survey that prospect members are humbly s are humbly welcomed to answer, up until the 11th December, that will be paramount on getting this started as early as possible – as early as possible☺**
 
@@ -120,4 +120,4 @@ All I want is this to come to fruition and be solid, enjoyable, helpful and prof
 
 This document is complemented by one other, with more technical and [geeky stuff](https://github.com/mackattack414/Orions-Belt/blob/master/Geek%20Stuff.md), be sure to look it up if you’re interested, it will be posted in the thread also.
 
-**Please go back to the  [thread on HT](https://hashtalk.org/topic/21957/pre-ann-orion-belt-coalition-update-1) and follow the link on the survey! or click [here](https://qtrial2011.qualtrics.com/SE/?SID=SV_81gxvH1x8VW0gsZ) I need your feedback on all of this!** 
+**Please go back to the  [thread on HT](https://hashtalk.org/topic/23234/ann-orion-belt-community-base-camp) and follow the link on the survey! or click [here](https://qtrial2011.qualtrics.com/SE/?SID=SV_81gxvH1x8VW0gsZ) I need your feedback on all of this!** 
