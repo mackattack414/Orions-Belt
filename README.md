@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/9Ff4cUa.png)
 
-## Find out more here  [HashTalk’s](https://hashtalk.org/topic/21957/pre-ann-orion-belt-coalition-update-1)
+## Find out more here  [HashTalk’s](https://hashtalk.org/topic/23234/ann-orion-belt-community-base-camp)
 
 ###Read This First
  - **[Letter of Intent ](https://github.com/mackattack414/Orions-Belt/blob/master/Letter%20of%20Intent.md)**  
